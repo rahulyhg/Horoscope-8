@@ -1,6 +1,6 @@
-Horoscope Android App
+#Horoscope Android App
 
-Features:
+##Features:
 1. View horoscope by sign
 2. Find Your Sign
 3. Romantic Compatibility
